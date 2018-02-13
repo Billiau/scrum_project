@@ -16,7 +16,7 @@ index.php
 <body>
 <header>
     <div class="top">
-        <div class="wraper">
+        <div class="wrapper">
             <div class="top-container">
                 <div class="logo"><img src="images/logo-oeverdef.png"></div>
                 <div class="site-name"> De oever</div>
